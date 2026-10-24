@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata from this file."
+title: "ASIN-HHC Ecosystem"
+authors:
+  - family-names: Christie
+    given-names: Dennis
+url: "https://github.com/dbottrader/ASIN-HHC-Ecosystem"
+repository-code: "https://github.com/dbottrader/ASIN-HHC-Ecosystem"
+date-released: 2026-10-15
+license: MIT
